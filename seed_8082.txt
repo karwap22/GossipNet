@@ -1,0 +1,11 @@
+Seed node listening on port 8082
+New Peer registered: 127.0.0.1: 3500
+Peer has requested the peer list
+New Peer registered: 127.0.0.1: 3501
+Peer has requested the peer list
+New Peer registered: 127.0.0.1: 3501
+Peer has requested the peer list
+Message Recieved : Dead Node: 127.0.0.1 : 3502 : 15163 : 127.0.0.1
+Removing 127.0.0.1:3502 from the peer list
+Message Recieved : Dead Node: 127.0.0.1 : 3501 : 16004 : 127.0.0.1
+Removing 127.0.0.1:3501 from the peer list

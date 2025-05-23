@@ -1,0 +1,5 @@
+Seed node listening on port 8080
+New Peer registered: 127.0.0.1: 3501
+Peer has requested the peer list
+New Peer registered: 127.0.0.1: 3502
+Peer has requested the peer list

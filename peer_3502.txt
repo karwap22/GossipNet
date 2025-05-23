@@ -1,0 +1,168 @@
+Connected to seed 127.0.0.1 8080
+
+Connected to seed 127.0.0.1 8081
+
+Message Recieved :Message : :Message : 
+Broadcasting the message : Message Recieved :Message : :Message : 
+Message Recieved :Message : :Message : 
+
+Message Recieved :Message : :Message : 
+Message Recieved :Message : :Message : 
+Message Recieved :5836 : 127.0.0.1 : 6ufk4j33
+Message Recieved :Message : :5836 : 12
+Broadcasting the message : Message Recieved :5836 : 127.0.0.1 : 6ufk4j33
+Broadcasting the message : Message Recieved :Message : :5836 : 12
+
+Broadcasting the message : Message Recieved :Message : :5836 : 12
+
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3500
+Message Recieved :5900 : 127.0.0.1 : e7z1pzw2
+Broadcasting the message : Message Recieved :5900 : 127.0.0.1 : e7z1pzw2
+Message Recieved :Message : :5900 : 1
+
+Message Recieved :Message : :5900 : 1
+Broadcasting the message : Message Recieved :Message : :5900 : 1
+
+Message Recieved :Message : :Message : 
+Message Recieved :Message : :Message : 
+Message Recieved :6563 : 127.0.0.1 : do569e
+Message Recieved :Message : :6563 : 2
+Broadcasting the message : Message Recieved :6563 : 127.0.0.1 : do569e
+Broadcasting the message : Message Recieved :Message : :6563 : 2
+
+
+roadcasting the message : Message Recieved :6563 : 127.0.0.1 : do569e
+
+Message Recieved :Message : :Message : 
+Message Recieved :Message : :Message : 
+Message Recieved :6702 : 127.0.0.1 : czxwq44x6
+Message Recieved :Message : :6702 : 12727.0.0.1
+Broadcasting the message : Message Recieved :6702 : 127.0.0.1 : czxwq44x6
+Broadcasting the message : Message Recieved :Message : :6702 : 12727.0.0.1
+
+Broadcasting the message : Message Recieved :Message : :6702 : 12727.0.0.1
+
+Message Recieved :Message : :Message : 
+Message Recieved :Message : :Message : 
+Message Recieved :Message : :Messag : 
+Broadcasting the message : Message Recieved :Message : :Messag : 
+
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3501
+Message Recieved :7265 : 127.0.0.1 : pokwpq12727.0.0.1
+Broadcasting the message : Message Recieved :7265 : 127.0.0.1 : pokwpq12727.0.0.1
+
+Message Recieved :Message : :7265 : :
+Broadcasting the message : Message Recieved :Message : :7265 : :
+
+Message Recieved :Message : :Message12727.0.0.1 : 
+Broadcasting the message : Message Recieved :Message : :Message12727.0.0.1 : 
+
+Message Recieved :Message : :Message: : 
+Broadcasting the message : Message Recieved :Message : :Message: : 
+
+Liveliness Request Sent to 7
+Liveliness Request Sent to 8
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3500
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3501
+Message Recieved :7960 : 127.0.0.1 : fk4j33gdo0.0.1:
+Broadcasting the message : Message Recieved :7960 : 127.0.0.1 : fk4j33gdo0.0.1:
+
+Message Recieved :Message : :7960 : 1270.0.1:
+Broadcasting the message : Message Recieved :Message : :7960 : 1270.0.1:
+
+Message Recieved :Message : :Message : 0.0.1:
+Broadcasting the message : Message Recieved :Message : :Message : 0.0.1:
+
+Message Recieved :Message : :Message : 0.0.1:
+Message Recieved :Message : :Message : 0.0.1:
+Message Recieved :Message : :Message : 0.0.1:
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3500
+Message Recieved :8563 : 127.0.0.1 : mvmim8vb127.0.0.127.0.0.1°¯ók
+Broadcasting the message : Message Recieved :8563 : 127.0.0.1 : mvmim8vb127.0.0.127.0.0.1°¯ók
+
+Message Recieved :Message : :8563 : 12
+Broadcasting the message : Message Recieved :Message : :8563 : 12
+
+Message Recieved :Message : :Message : 
+Message Recieved :9120 : 127.0.0.1 : 699po
+Message Recieved :Message : :9120 : :127.0.0.127.0.0.1°¯ók
+Broadcasting the message : Message Recieved :9120 : 127.0.0.1 : 699po
+Broadcasting the message : Message Recieved :Message : :9120 : :127.0.0.127.0.0.1°¯ók
+
+Broadcasting the message : Message Recieved :Message : :9120 : :127.0.0.127.0.0.1°¯ók
+
+Message Recieved :Message : :Message : 27.0.0.127.0.0.1°¯ók
+Broadcasting the message : Message Recieved :Message : :Message : 27.0.0.127.0.0.1°¯ók
+
+Message Recieved :Message : :Message : 0.0.1:
+Message Recieved :9338 : 127.0.0.1 : y4h9pf
+Broadcasting the message : Message Recieved :9338 : 127.0.0.1 : y4h9pf
+
+Message Recieved :Message : :9338 : :
+Broadcasting the message : Message Recieved :Message : :9338 : :
+
+Message Recieved :Message : :Message : 0.0.1:
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3501
+Message Recieved :10014 : 127.0.0.1 : wpqnmv
+Broadcasting the message : Message Recieved :10014 : 127.0.0.1 : wpqnmv
+
+Message Recieved :Message : :10014 : :
+Broadcasting the message : Message Recieved :Message : :10014 : :
+
+Message Recieved :Message : :Message : 
+Message Recieved :Message : :Message : 27.0.0.127.0.0.1°ïêk
+Message Recieved :Message : :Message : 27.0.0.127.0.0.1°¯ók
+Broadcasting the message : Message Recieved :Message : :Message : 27.0.0.127.0.0.1°ïêk
+
+
+essage Recieved :Message : :Message : 27.0.0.127.0.0.1°¯ók
+Liveliness Request Sent to 7
+Liveliness Request Sent to 8
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3501
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3500
+Message Recieved :10668 : 127.0.0.1 : im8vbq7.0.0.1:
+Message Recieved :Message : :10668 : 7.0.0.1:
+Broadcasting the message : Message Recieved :10668 : 127.0.0.1 : im8vbq7.0.0.1:
+Broadcasting the message : Message Recieved :Message : :10668 : 7.0.0.1:
+
+Broadcasting the message : Message Recieved :Message : :10668 : 7.0.0.1:
+
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3500
+Message Recieved :Message : :Message : 127.0.0.17.0.0.1°¯ók
+Message Recieved :Message : :Messageq7.0.0.1: : 
+Broadcasting the message : Message Recieved :Message : :Messageq7.0.0.1: : 
+Broadcasting the message : Message Recieved :Message : :Message : 127.0.0.17.0.0.1°¯ók
+
+Broadcasting the message : Message Recieved :Message : :Message : 127.0.0.17.0.0.1°¯ók
+
+Message Recieved :Message : :Messageq7.0.0.1: : 
+Message Recieved :Message : :Message : 127.0.0.17.0.0.1°¯ók
+Message Recieved :Message : :Message : 127.0.0.1°ïêk
+Broadcasting the message : Message Recieved :Message : :Message : 127.0.0.1°ïêk
+
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3501
+Liveliness Request Sent to 7
+Liveliness Request Sent to 8
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3500
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3501
+Message Recieved :Message : :Message : 127.0.0.1ïêk
+Message Recieved :Message : :Message : 127.0.0.1¯ók
+Broadcasting the message : Message Recieved :Message : :Message : 127.0.0.1ïêk
+Message Recieved :Message : :Message : 127.0.0.1¯ók
+
+
+
+Message Recieved :Message : :Message : 127.0.0.1¯ók
+Message Recieved :Message : :Message : 127.0.0.1ïêk
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3500
+Message Recieved :Message : :Message : 127.0.0.127.0.0.1¯ók
+Message Recieved :Message : :Message : 127.0.0.1ïêk
+Broadcasting the message : Message Recieved :Message : :Message : 127.0.0.127.0.0.1¯ók
+
+
+essage Recieved :Message : :Message : 127.0.0.1ïêk
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3501
+Liveliness Request Sent to 7
+Liveliness Request Sent to 8
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3501
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3500

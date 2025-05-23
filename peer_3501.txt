@@ -1,0 +1,57 @@
+Connected to seed 127.0.0.1 8082
+
+Connected to seed 127.0.0.1 8081
+
+Message Recieved :Message : :4487 : 127.0.0.1
+Broadcasting the message : Message Recieved :Message : :4487 : 127.0.0.1
+
+Message Recieved :Message : :Message : :Message
+Broadcasting the message : Message Recieved :Message : :Message : :Message
+
+Message Recieved :Message : :Message : :Message
+Message Recieved :Message : :4778 : 1:
+Broadcasting the message : Message Recieved :Message : :4778 : 1:
+
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3502
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3500
+Message Recieved :Message : :5067 : :
+Broadcasting the message : Message Recieved :Message : :5067 : :
+
+Message Recieved :Message : :Messag4 : 127.0.0.1:
+Broadcasting the message : Message Recieved :Message : :Messag4 : 127.0.0.1:
+
+Liveliness Request Sent to 7
+Liveliness Request Sent to 7
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3500
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3502
+Message Recieved :Message : :5625 : 17.0.0.1:
+Broadcasting the message : Message Recieved :Message : :5625 : 17.0.0.1:
+
+Message Recieved :Message : :5887 : 1270.0.1:
+Broadcasting the message : Message Recieved :Message : :5887 : 1270.0.1:
+
+Message Recieved :Message : :Message : 0.0.1:
+Broadcasting the message : Message Recieved :Message : :Message : 0.0.1:
+
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3502
+LIVELINESS REQUEST RECIENVED FROM : 127.0.0.1 : 3500
+Message Recieved :Message : :6333 : 127127.0.0.17.0.0.1age
+Broadcasting the message : Message Recieved :Message : :6333 : 127127.0.0.17.0.0.1age
+
+Message Recieved :Message : :Message : 127.0.0.17.0.0.1age
+Broadcasting the message : Message Recieved :Message : :Message : 127.0.0.17.0.0.1age
+
+Liveliness Request Sent to 7
+Liveliness Request Sent to 7
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3502
+LIVELINESS REPLY RECIEVED FROM : 127.0.0.1 : 3500
+Message Recieved :Message : :6822 : 127.0.0.1age
+Broadcasting the message : Message Recieved :Message : :6822 : 127.0.0.1age
+
+Message Recieved :Message : :Messag127.0.0.1: : 
+Broadcasting the message : Message Recieved :Message : :Messag127.0.0.1: : 
+
+Liveliness Request Sent to 7
+Liveliness Request Sent to 7
+Liveliness Request Sent to 7
+Liveliness Request Sent to 7
